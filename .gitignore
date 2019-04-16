@@ -1,0 +1,4 @@
+## .gitignore file for DirectXShaderCompiler-scaffold
+
+## ignore folder fetched through gclient
+DirectXShaderCompiler
